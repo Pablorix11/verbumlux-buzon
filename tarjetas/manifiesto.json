@@ -1,5 +1,12 @@
 [
  {
+  "fecha": "2026-11-02",
+  "cita": "San Juan 14,2",
+  "texto": "En la casa de mi Padre hay muchas moradas; y si no, os lo habría dicho, puesto que voy a preparar lugar para vosotros.",
+  "tono": "blanca",
+  "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/main/tarjetas/2026-11-02.png"
+ },
+ {
   "fecha": "2026-11-03",
   "cita": "San Lucas 14,23",
   "texto": "Ve a lo largo de los caminos y de los cercados, y compele a entrar, para que se llene mi casa.",
@@ -148,8 +155,8 @@
  },
  {
   "fecha": "2026-11-24",
-  "cita": "San Mateo 6,33",
-  "texto": "Buscad, pues, primero el reino de Dios y su justicia, y todo eso se os dará por añadidura.",
+  "cita": "San Lucas 21,9",
+  "texto": "Cuando oigáis hablar de guerras y revoluciones, no os turbéis…",
   "tono": "blanca",
   "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/main/tarjetas/2026-11-24.png"
  },
@@ -211,8 +218,8 @@
  },
  {
   "fecha": "2026-12-03",
-  "cita": "San Marcos 16,15",
-  "texto": "Id por el mundo entero, predicad el Evangelio a toda la creación.",
+  "cita": "San Mateo 7,21",
+  "texto": "No todo el que me dice: “Señor, Señor”, entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre celestial.",
   "tono": "negra",
   "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/main/tarjetas/2026-12-03.png"
  },
@@ -274,8 +281,8 @@
  },
  {
   "fecha": "2026-12-12",
-  "cita": "San Lucas 1,45",
-  "texto": "Y dichosa la que creyó, porque tendrá cumplimiento lo que se le dijo de parte del Señor",
+  "cita": "San Mateo 17,11",
+  "texto": "Ciertamente, Elías vendrá y restaurará todo.",
   "tono": "blanca",
   "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/main/tarjetas/2026-12-12.png"
  },
@@ -288,15 +295,15 @@
  },
  {
   "fecha": "2026-12-14",
-  "cita": "1 San Juan 4,16",
-  "texto": "Dios es amor; y el que permanece en el amor, en Dios permanece y Dios permanece en él.",
+  "cita": "Números 24,17",
+  "texto": "…una estrella sale de Jacob, y de Israel surge un cetro…",
   "tono": "blanca",
   "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/main/tarjetas/2026-12-14.png"
  },
  {
   "fecha": "2026-12-15",
-  "cita": "San Mateo 11,29",
-  "texto": "Tomad sobre vosotros el yugo mío, y dejaos instruir por Mí, porque manso soy y humilde en el corazón; y encontrareis reposo para vuestras vidas.",
+  "cita": "Sofonías 3,12",
+  "texto": "Dejaré en medio de ti un pueblo pobre y humilde, que confiará en el Nombre de Yahvé.",
   "tono": "negra",
   "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/main/tarjetas/2026-12-15.png"
  },
@@ -309,8 +316,8 @@
  },
  {
   "fecha": "2026-12-17",
-  "cita": "Isaías 11,1",
-  "texto": "Saldrá un retoño del tronco de Isaí, y de sus raíces brotará un renuevo.",
+  "cita": "San Mateo 1,16",
+  "texto": "Jacob engendró a José, el esposo de María, de la cual nació Jesús, el llamado Cristo.",
   "tono": "negra",
   "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/main/tarjetas/2026-12-17.png"
  },
@@ -323,8 +330,8 @@
  },
  {
   "fecha": "2026-12-19",
-  "cita": "San Lucas 1,37",
-  "texto": "…no hay nada imposible para Dios.",
+  "cita": "San Lucas 1,13",
+  "texto": "No temas, Zacarías, pues tu súplica ha sido escuchada…",
   "tono": "negra",
   "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/main/tarjetas/2026-12-19.png"
  },
@@ -351,8 +358,8 @@
  },
  {
   "fecha": "2026-12-23",
-  "cita": "Isaías 9,2",
-  "texto": "El pueblo que andaba en tinieblas vio una gran luz; sobre los habitantes de la tierra de sombras de muerte resplandeció una luz.",
+  "cita": "Malaquías 3,1",
+  "texto": "He aquí que envío a mi ángel que preparará el camino delante de Mí; y de repente vendrá a su Templo el Señor a quien buscáis…",
   "tono": "negra",
   "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/main/tarjetas/2026-12-23.png"
  },
@@ -386,8 +393,8 @@
  },
  {
   "fecha": "2026-12-28",
-  "cita": "San Mateo 18,10",
-  "texto": "Guardaos de despreciar a uno solo de estos pequeños, porque os digo que sus ángeles, en los cielos, ven continuamente la faz de mi Padre celestial.",
+  "cita": "1 San Juan 1,5",
+  "texto": "…Dios es luz y en Él no hay tiniebla alguna.",
   "tono": "blanca",
   "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/main/tarjetas/2026-12-28.png"
  },
