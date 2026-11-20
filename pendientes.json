@@ -2,24 +2,14 @@
   "nota": "Vídeos listos para publicar. La tarea «Vídeo diario · Verbum Lux» publica cada entrada en Instagram (reel fuera de la cuadrícula), TikTok y YouTube a su hora si aún no está en Buffer. Al confirmarse las 3 enviadas, se quita de aquí.",
   "pendientes": [
     {
-      "fecha": "2026-11-18",
+      "fecha": "2026-11-20",
       "hora": "19:00",
-      "archivo": "puerta-cielo-2026-11-18.mp4",
-      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/puerta-cielo-2026-11-18.mp4",
-      "portada_ms": 20500,
-      "titulo_tiktok": "Una puerta abierta en el cielo · Ap 4",
-      "titulo_youtube": "Una puerta abierta en el cielo · Ap 4 | Verbum · Lux",
-      "texto": "Una puerta abierta en el cielo.\n\n«Después de esto tuve una visión y he aquí una puerta abierta en el cielo, y aquella primera voz como de trompeta que yo había oído hablar conmigo dijo: “Sube aquí y te mostraré las cosas que han de suceder después de estas”.»\nAp 4, 1 (primera lectura de hoy)\n\nSan Juan ve el trono, el mar de cristal, las siete lámparas, los cuatro vivientes que claman día y noche «Santo, santo, santo», y los veinticuatro ancianos que deponen sus coronas ante el trono: «Digno eres Tú, Señor y Dios nuestro, de recibir la gloria y el honor y el poder» (Ap 4, 11).\n\nLecturas del día en verbumetlux.com/lecturas\n\n#Apocalipsis #Biblia #PalabraDeDios #Católico #Liturgia"
-    },
-    {
-      "fecha": "2026-11-19",
-      "hora": "19:00",
-      "archivo": "lloro-2026-11-19.mp4",
-      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/lloro-2026-11-19.mp4",
-      "portada_ms": 11500,
-      "titulo_tiktok": "Lloró sobre ella · Lc 19, 41-44",
-      "titulo_youtube": "Lloró sobre ella · Lc 19, 41-44 | Verbum · Lux",
-      "texto": "Lloró sobre ella.\n\n«Y cuando estuvo cerca, viendo la ciudad, lloró sobre ella. y dijo: “¡Ah si en este día conocieras también tú lo que sería para la paz! Pero ahora está escondido a tus ojos.»\nLc 19, 41-42 (Evangelio de hoy)\n\nDesde el monte de los Olivos, Jesús mira Jerusalén y su Templo, y llora. Anuncia que no quedará piedra sobre piedra «porque no conociste el tiempo en que has sido visitada» (Lc 19, 44).\n\nLecturas del día en verbumetlux.com/lecturas\n\n#EvangelioDeHoy #Jerusalén #Biblia #Católico #Fe"
+      "archivo": "viacrucis-2026-11-20.mp4",
+      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/viacrucis-2026-11-20.mp4",
+      "portada_ms": 27000,
+      "titulo_tiktok": "Vía Crucis · catorce estaciones",
+      "titulo_youtube": "Vía Crucis · catorce estaciones | Verbum · Lux",
+      "texto": "Vía Crucis.\n\nCatorce estaciones, un solo camino: desde que Jesús es condenado a muerte hasta que es sepultado. Cada viernes, la Iglesia invita a recorrerlo despacio, estación por estación, acompañando al Señor.\n\n«Si alguno quiere venir en pos de Mí, renúnciese a sí mismo, tome su cruz cada día, y sígame.»\nLc 9, 23\n\nverbumetlux.com\n\n#ViaCrucis #Viernes #Cruz #Católico #Oración"
     }
   ]
 }
