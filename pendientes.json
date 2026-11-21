@@ -2,16 +2,6 @@
   "nota": "Vídeos listos para publicar. La tarea «Vídeo diario · Verbum Lux» publica cada entrada en Instagram (reel fuera de la cuadrícula), TikTok y YouTube a su hora si aún no está en Buffer. Al confirmarse las 3 enviadas, se quita de aquí.",
   "pendientes": [
     {
-      "fecha": "2026-11-20",
-      "hora": "19:00",
-      "archivo": "viacrucis-2026-11-20.mp4",
-      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/viacrucis-2026-11-20.mp4",
-      "portada_ms": 27000,
-      "titulo_tiktok": "Vía Crucis · catorce estaciones",
-      "titulo_youtube": "Vía Crucis · catorce estaciones | Verbum · Lux",
-      "texto": "Vía Crucis.\n\nCatorce estaciones, un solo camino: desde que Jesús es condenado a muerte hasta que es sepultado. Cada viernes, la Iglesia invita a recorrerlo despacio, estación por estación, acompañando al Señor.\n\n«Si alguno quiere venir en pos de Mí, renúnciese a sí mismo, tome su cruz cada día, y sígame.»\nLc 9, 23\n\nverbumetlux.com\n\n#ViaCrucis #Viernes #Cruz #Católico #Oración"
-    },
-    {
       "fecha": "2026-11-21",
       "hora": "19:00",
       "archivo": "presentacion-2026-11-21.mp4",
@@ -40,6 +30,16 @@
       "titulo_tiktok": "El áncora · San Clemente I, papa",
       "titulo_youtube": "El áncora · San Clemente I, papa y mártir | Verbum · Lux",
       "texto": "El áncora.\n\nHoy, 23 de noviembre, la Iglesia recuerda a san Clemente I, cuarto obispo de Roma y discípulo de Pedro y Pablo, autor de la Carta a los Corintios (hacia el año 96). Según la tradición, desterrado por Trajano a Crimea, convirtió a tantos que el emperador mandó arrojarlo al mar atado a un áncora. Siglos después, san Cirilo y san Metodio hallaron sus reliquias y las llevaron a Roma, donde reposan en la Basílica de San Clemente.\n\n«…la esperanza que se nos ha propuesto, la cual tenemos como áncora del alma, segura y firme.»\nHeb 6, 18-19\n\nSan Clemente, ruega por nosotros.\n\nverbumetlux.com/santoral\n\n#SanClemente #Santoral #Mártires #Católico #Esperanza"
+    },
+    {
+      "fecha": "2026-11-24",
+      "hora": "19:00",
+      "archivo": "rosario-2026-11-24.mp4",
+      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/rosario-2026-11-24.mp4",
+      "portada_ms": 29000,
+      "titulo_tiktok": "Un solo Rosario · verbumetlux.com/rosario",
+      "titulo_youtube": "Un solo Rosario · Santo Rosario en Verbum Lux | Verbum · Lux",
+      "texto": "Veinte misterios. Un solo Rosario.\n\nGozosos, luminosos, dolorosos y gloriosos: cada día de la semana tiene sus misterios. En Verbum Lux puedes rezarlo escuchando el Rosario rezado, con la imagen de cada misterio y su pasaje del Evangelio a un toque.\n\n«Pero María retenía todas estas palabras ponderándolas en su corazón.»\nLc 2, 19\n\nTe esperamos en verbumetlux.com/rosario\n\n#SantoRosario #Rosario #VirgenMaría #Católico #Oración"
     }
   ]
 }
