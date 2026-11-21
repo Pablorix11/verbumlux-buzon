@@ -4,12 +4,12 @@
     {
       "fecha": "2026-11-21",
       "hora": "19:00",
-      "archivo": "presentacion-2026-11-21.mp4",
-      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/presentacion-2026-11-21.mp4",
-      "portada_ms": 28000,
-      "titulo_tiktok": "Peldaño a peldaño · Presentación de la Virgen María",
-      "titulo_youtube": "Peldaño a peldaño · Presentación de la Virgen María | Verbum · Lux",
-      "texto": "Peldaño a peldaño.\n\nHoy, 21 de noviembre, la Iglesia recuerda la Presentación de la Virgen María: según una antigua tradición, recogida en el Protoevangelio de Santiago, sus padres, san Joaquín y santa Ana, la llevaron al Templo de Jerusalén siendo niña, de tres años, para consagrarla a Dios.\n\n«Quienquiera que hace la voluntad de mi Padre celestial, este es mi hermano, hermana o madre.»\nMt 12, 50 (Evangelio de hoy)\n\nSanta María, ruega por nosotros.\n\nverbumetlux.com/santoral\n\n#VirgenMaría #PresentaciónDeLaVirgen #Santoral #Católico #María"
+      "archivo": "vivos-2026-11-21.mp4",
+      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/vivos-2026-11-21.mp4",
+      "portada_ms": 30000,
+      "titulo_tiktok": "No es Dios de muertos, sino de vivos",
+      "titulo_youtube": "No es Dios de muertos, sino de vivos · Lc 20, 38 | Verbum · Lux",
+      "texto": "Dios de vivos.\n\nLos saduceos, que negaban la resurrección, ponen a prueba a Jesús. Él les responde con la zarza ardiente: allí Dios se nombró «Dios de Abrahán, Dios de Isaac y Dios de Jacob», muertos hacía siglos y vivos para Él.\n\n«Porque, no es Dios de muertos, sino de vivos, pues todos para Él viven.»\nLc 20, 38 (Evangelio de hoy)\n\nLecturas del día en verbumetlux.com/lecturas\n\n#EvangelioDeHoy #Resurrección #Biblia #Católico #Fe"
     },
     {
       "fecha": "2026-11-22",
@@ -40,6 +40,19 @@
       "titulo_tiktok": "Un solo Rosario · verbumetlux.com/rosario",
       "titulo_youtube": "Un solo Rosario · Santo Rosario en Verbum Lux | Verbum · Lux",
       "texto": "Veinte misterios. Un solo Rosario.\n\nGozosos, luminosos, dolorosos y gloriosos: cada día de la semana tiene sus misterios. En Verbum Lux puedes rezarlo escuchando el Rosario rezado, con la imagen de cada misterio y su pasaje del Evangelio a un toque.\n\n«Pero María retenía todas estas palabras ponderándolas en su corazón.»\nLc 2, 19\n\nTe esperamos en verbumetlux.com/rosario\n\n#SantoRosario #Rosario #VirgenMaría #Católico #Oración"
+    }
+  ],
+  "reserva": [
+    {
+      "fecha": null,
+      "hora": "19:00",
+      "archivo": "reserva/presentacion-virgen.mp4",
+      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/reserva/presentacion-virgen.mp4",
+      "portada_ms": 28000,
+      "titulo_tiktok": "Peldaño a peldaño · Presentación de la Virgen María",
+      "titulo_youtube": "Peldaño a peldaño · Presentación de la Virgen María | Verbum · Lux",
+      "texto": "Peldaño a peldaño.\n\nHoy, 21 de noviembre, la Iglesia recuerda la Presentación de la Virgen María: según una antigua tradición, recogida en el Protoevangelio de Santiago, sus padres, san Joaquín y santa Ana, la llevaron al Templo de Jerusalén siendo niña, de tres años, para consagrarla a Dios.\n\n«Quienquiera que hace la voluntad de mi Padre celestial, este es mi hermano, hermana o madre.»\nMt 12, 50 (Evangelio de hoy)\n\nSanta María, ruega por nosotros.\n\nverbumetlux.com/santoral\n\n#VirgenMaría #PresentaciónDeLaVirgen #Santoral #Católico #María",
+      "nota": "Guardado por petición del propietario (21-11-2026) para otro día. Ojo: el vídeo lleva «21 DE NOVIEMBRE» en pantalla y el texto dice «Hoy, 21 de noviembre»: usarlo el 21-11 de otro año o reajustar."
     }
   ]
 }
