@@ -2,26 +2,6 @@
   "nota": "Vídeos listos para publicar. La tarea «Vídeo diario · Verbum Lux» publica cada entrada en Instagram (reel fuera de la cuadrícula), TikTok y YouTube a su hora si aún no está en Buffer. Al confirmarse las 3 enviadas, se quita de aquí.",
   "pendientes": [
     {
-      "fecha": "2026-11-21",
-      "hora": "18:00",
-      "archivo": "vivos-2026-11-21.mp4",
-      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/vivos-2026-11-21.mp4",
-      "portada_ms": 30000,
-      "titulo_tiktok": "No es Dios de muertos, sino de vivos",
-      "titulo_youtube": "No es Dios de muertos, sino de vivos · Lc 20, 38 | Verbum · Lux",
-      "texto": "Dios de vivos.\n\nLos saduceos, que negaban la resurrección, ponen a prueba a Jesús. Él les responde con la zarza ardiente: allí Dios se nombró «Dios de Abrahán, Dios de Isaac y Dios de Jacob», muertos hacía siglos y vivos para Él.\n\n«Porque, no es Dios de muertos, sino de vivos, pues todos para Él viven.»\nLc 20, 38 (Evangelio de hoy)\n\nLecturas del día en verbumetlux.com/lecturas\n\n#EvangelioDeHoy #Resurrección #Biblia #Católico #Fe"
-    },
-    {
-      "fecha": "2026-11-22",
-      "hora": "10:00",
-      "archivo": "cristorey-2026-11-22.mp4",
-      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/cristorey-2026-11-22.mp4",
-      "portada_ms": 33500,
-      "titulo_tiktok": "Jesucristo, Rey del Universo",
-      "titulo_youtube": "Jesucristo, Rey del Universo · Mt 25, 31-40 | Verbum · Lux",
-      "texto": "Jesucristo, Rey del Universo.\n\nEl último domingo del año litúrgico, la Iglesia celebra a Cristo Rey. En el Evangelio de hoy, el Rey se sienta en su trono de gloria y se reconoce en los más pequeños: el hambriento, el sediento, el forastero, el desnudo, el enfermo y el preso.\n\n«En verdad, os digo: en cuanto lo hicisteis a uno solo, el más pequeño de estos mis hermanos, a Mí lo hicisteis.»\nMt 25, 40 (Evangelio de hoy)\n\nLecturas del día en verbumetlux.com/lecturas\n\n#CristoRey #EvangelioDeHoy #Domingo #Católico #ObrasDeMisericordia"
-    },
-    {
       "fecha": "2026-11-23",
       "hora": "19:00",
       "archivo": "clemente-2026-11-23.mp4",
@@ -40,6 +20,16 @@
       "titulo_tiktok": "Un solo Rosario · verbumetlux.com/rosario",
       "titulo_youtube": "Un solo Rosario · Santo Rosario en Verbum Lux | Verbum · Lux",
       "texto": "Veinte misterios. Un solo Rosario.\n\nGozosos, luminosos, dolorosos y gloriosos: cada día de la semana tiene sus misterios. En Verbum Lux puedes rezarlo escuchando el Rosario rezado, con la imagen de cada misterio y su pasaje del Evangelio a un toque.\n\n«Pero María retenía todas estas palabras ponderándolas en su corazón.»\nLc 2, 19\n\nTe esperamos en verbumetlux.com/rosario\n\n#SantoRosario #Rosario #VirgenMaría #Católico #Oración"
+    },
+    {
+      "fecha": "2026-11-25",
+      "hora": "19:00",
+      "archivo": "catalina-2026-11-25.mp4",
+      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/catalina-2026-11-25.mp4",
+      "portada_ms": 21500,
+      "titulo_tiktok": "Su resplandor · Santa Catalina de Alejandría",
+      "titulo_youtube": "Su resplandor · Santa Catalina de Alejandría | Verbum · Lux",
+      "texto": "Su resplandor.\n\nHoy, 25 de noviembre, la Iglesia recuerda a santa Catalina de Alejandría, virgen y mártir (c. 305). Según la tradición, con dieciocho años se presentó ante el emperador y confundió en disputa a cincuenta sabios enviados para refutarla, que acabaron convertidos. La rueda dentada preparada para su tormento se rompió; murió decapitada. Es patrona de filósofos y estudiantes.\n\n«La amé más que la salud y la hermosura; y propuse tenerla por luz, porque su resplandor es inextinguible.»\nSab 7, 10\n\nSanta Catalina, ruega por nosotros.\n\nverbumetlux.com/santoral\n\n#SantaCatalina #Santoral #Mártires #Católico #Sabiduría"
     }
   ],
   "reserva": [
