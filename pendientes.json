@@ -2,16 +2,6 @@
   "nota": "Vídeos listos para publicar. La tarea «Vídeo diario · Verbum Lux» publica cada entrada en Instagram (reel fuera de la cuadrícula), TikTok y YouTube a su hora si aún no está en Buffer. Al confirmarse las 3 enviadas, se quita de aquí.",
   "pendientes": [
     {
-      "fecha": "2026-11-23",
-      "hora": "19:00",
-      "archivo": "clemente-2026-11-23.mp4",
-      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/clemente-2026-11-23.mp4",
-      "portada_ms": 30000,
-      "titulo_tiktok": "El áncora · San Clemente I, papa",
-      "titulo_youtube": "El áncora · San Clemente I, papa y mártir | Verbum · Lux",
-      "texto": "El áncora.\n\nHoy, 23 de noviembre, la Iglesia recuerda a san Clemente I, cuarto obispo de Roma y discípulo de Pedro y Pablo, autor de la Carta a los Corintios (hacia el año 96). Según la tradición, desterrado por Trajano a Crimea, convirtió a tantos que el emperador mandó arrojarlo al mar atado a un áncora. Siglos después, san Cirilo y san Metodio hallaron sus reliquias y las llevaron a Roma, donde reposan en la Basílica de San Clemente.\n\n«…la esperanza que se nos ha propuesto, la cual tenemos como áncora del alma, segura y firme.»\nHeb 6, 18-19\n\nSan Clemente, ruega por nosotros.\n\nverbumetlux.com/santoral\n\n#SanClemente #Santoral #Mártires #Católico #Esperanza"
-    },
-    {
       "fecha": "2026-11-24",
       "hora": "19:00",
       "archivo": "rosario-2026-11-24.mp4",
@@ -40,6 +30,16 @@
       "titulo_tiktok": "Levantad la cabeza · Lc 21, 28",
       "titulo_youtube": "Levantad la cabeza · Lc 21, 25-28 | Verbum · Lux",
       "texto": "Levantad la cabeza.\n\nEn los últimos días del año litúrgico, el Evangelio habla de señales en el sol, la luna y las estrellas, de los cielos conmovidos y del Hijo del Hombre que viene en una nube con gran poder y gloria. Y termina con una invitación a no bajar la mirada.\n\n«Mas cuando estas cosas comiencen a ocurrir, erguíos y levantad la cabeza, porque vuestra redención se acerca.»\nLc 21, 28 (Evangelio de hoy)\n\nLecturas del día en verbumetlux.com/lecturas\n\n#EvangelioDeHoy #Esperanza #Biblia #Católico #Fe"
+    },
+    {
+      "fecha": "2026-11-27",
+      "hora": "19:00",
+      "archivo": "medalla-2026-11-27.mp4",
+      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/medalla-2026-11-27.mp4",
+      "portada_ms": 33000,
+      "titulo_tiktok": "La Medalla Milagrosa · 27 de noviembre",
+      "titulo_youtube": "La Medalla Milagrosa · rue du Bac, 1830 | Verbum · Lux",
+      "texto": "La medalla.\n\nEl 27 de noviembre de 1830, en la capilla de la rue du Bac, en París, la novicia Catalina Labouré vio a la Virgen con las manos abiertas derramando rayos de luz. Le pidió acuñar una medalla con esta oración. En el reverso, la M con la cruz, los corazones de Jesús y de María y doce estrellas. Por las gracias recibidas, el pueblo la llamó «Medalla Milagrosa».\n\n«Oh María sin pecado concebida, ruega por nosotros que recurrimos a vos.»\n\n«…una mujer revestida del sol y con la luna bajo sus pies y en su cabeza una corona de doce estrellas…»\nAp 12, 1\n\nverbumetlux.com/santoral\n\n#MedallaMilagrosa #VirgenMaría #Inmaculada #Católico #Oración"
     }
   ],
   "reserva": [
