@@ -2,16 +2,6 @@
   "nota": "Vídeos listos para publicar. La tarea «Vídeo diario · Verbum Lux» publica cada entrada en Instagram (reel fuera de la cuadrícula), TikTok y YouTube a su hora si aún no está en Buffer. Al confirmarse las 3 enviadas, se quita de aquí.",
   "pendientes": [
     {
-      "fecha": "2026-11-24",
-      "hora": "19:00",
-      "archivo": "rosario-2026-11-24.mp4",
-      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/rosario-2026-11-24.mp4",
-      "portada_ms": 29000,
-      "titulo_tiktok": "Un solo Rosario · verbumetlux.com/rosario",
-      "titulo_youtube": "Un solo Rosario · Santo Rosario en Verbum Lux | Verbum · Lux",
-      "texto": "Veinte misterios. Un solo Rosario.\n\nGozosos, luminosos, dolorosos y gloriosos: cada día de la semana tiene sus misterios. En Verbum Lux puedes rezarlo escuchando el Rosario rezado, con la imagen de cada misterio y su pasaje del Evangelio a un toque.\n\n«Pero María retenía todas estas palabras ponderándolas en su corazón.»\nLc 2, 19\n\nTe esperamos en verbumetlux.com/rosario\n\n#SantoRosario #Rosario #VirgenMaría #Católico #Oración"
-    },
-    {
       "fecha": "2026-11-25",
       "hora": "19:00",
       "archivo": "catalina-2026-11-25.mp4",
@@ -40,6 +30,16 @@
       "titulo_tiktok": "La Medalla Milagrosa · 27 de noviembre",
       "titulo_youtube": "La Medalla Milagrosa · rue du Bac, 1830 | Verbum · Lux",
       "texto": "La medalla.\n\nEl 27 de noviembre de 1830, en la capilla de la rue du Bac, en París, la novicia Catalina Labouré vio a la Virgen con las manos abiertas derramando rayos de luz. Le pidió acuñar una medalla con esta oración. En el reverso, la M con la cruz, los corazones de Jesús y de María y doce estrellas. Por las gracias recibidas, el pueblo la llamó «Medalla Milagrosa».\n\n«Oh María sin pecado concebida, ruega por nosotros que recurrimos a vos.»\n\n«…una mujer revestida del sol y con la luna bajo sus pies y en su cabeza una corona de doce estrellas…»\nAp 12, 1\n\nverbumetlux.com/santoral\n\n#MedallaMilagrosa #VirgenMaría #Inmaculada #Católico #Oración"
+    },
+    {
+      "fecha": "2026-11-28",
+      "hora": "10:00",
+      "archivo": "estudio-2026-11-28.mp4",
+      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/estudio-2026-11-28.mp4",
+      "portada_ms": 26000,
+      "titulo_tiktok": "Un cuadro y una palabra · verbumetlux.com/estudio",
+      "titulo_youtube": "Un cuadro y una palabra · el Estudio de Verbum Lux | Verbum · Lux",
+      "texto": "Un cuadro. Una palabra.\n\nEn el Estudio de Verbum Lux puedes elegir una obra del catálogo por época, autor, tema o santo, añadirle un versículo, una oración, un texto del catecismo o el santo del día, y darle forma con diecisiete plantillas para compartirla.\n\n«Pues de la grandeza y hermosura de las creaturas, se puede a las claras venir al conocimiento de su Creador.»\nSab 13, 5\n\nTe esperamos en verbumetlux.com/estudio\n\n#ArteSacro #Biblia #Católico #Evangelización #VerbumLux"
     }
   ],
   "reserva": [
