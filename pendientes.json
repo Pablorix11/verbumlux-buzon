@@ -2,16 +2,6 @@
   "nota": "Vídeos listos para publicar. La tarea «Vídeo diario · Verbum Lux» publica cada entrada en Instagram (reel fuera de la cuadrícula), TikTok y YouTube a su hora si aún no está en Buffer. Al confirmarse las 3 enviadas, se quita de aquí.",
   "pendientes": [
     {
-      "fecha": "2026-11-26",
-      "hora": "19:00",
-      "archivo": "levantad-2026-11-26.mp4",
-      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/levantad-2026-11-26.mp4",
-      "portada_ms": 27000,
-      "titulo_tiktok": "Levantad la cabeza · Lc 21, 28",
-      "titulo_youtube": "Levantad la cabeza · Lc 21, 25-28 | Verbum · Lux",
-      "texto": "Levantad la cabeza.\n\nEn los últimos días del año litúrgico, el Evangelio habla de señales en el sol, la luna y las estrellas, de los cielos conmovidos y del Hijo del Hombre que viene en una nube con gran poder y gloria. Y termina con una invitación a no bajar la mirada.\n\n«Mas cuando estas cosas comiencen a ocurrir, erguíos y levantad la cabeza, porque vuestra redención se acerca.»\nLc 21, 28 (Evangelio de hoy)\n\nLecturas del día en verbumetlux.com/lecturas\n\n#EvangelioDeHoy #Esperanza #Biblia #Católico #Fe"
-    },
-    {
       "fecha": "2026-11-27",
       "hora": "19:00",
       "archivo": "medalla-2026-11-27.mp4",
@@ -40,6 +30,16 @@
       "titulo_tiktok": "Velad · I Domingo de Adviento",
       "titulo_youtube": "Velad · I Domingo de Adviento (Mc 13, 33-37) | Verbum · Lux",
       "texto": "Velad.\n\nHoy comienza el Adviento y, con él, un nuevo año litúrgico. En el Evangelio, Jesús compara la espera con la del portero que vigila la casa de su señor, que puede volver en la tarde, a la medianoche, al canto del gallo o en la mañana. Hoy se enciende la primera vela de la corona.\n\n«Lo que os digo a vosotros, lo digo a todos: ¡Velad!»\nMc 13, 37 (Evangelio del domingo)\n\nLecturas del día en verbumetlux.com/lecturas\n\n#Adviento #EvangelioDelDomingo #CoronaDeAdviento #Católico #Esperanza"
+    },
+    {
+      "fecha": "2026-11-30",
+      "hora": "19:00",
+      "archivo": "andres-2026-11-30.mp4",
+      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/andres-2026-11-30.mp4",
+      "portada_ms": 30000,
+      "titulo_tiktok": "El primer llamado · San Andrés, apóstol",
+      "titulo_youtube": "El primer llamado · San Andrés, apóstol (Mt 4, 18-20) | Verbum · Lux",
+      "texto": "El primer llamado.\n\nHoy, 30 de noviembre, la Iglesia celebra a san Andrés, apóstol, hermano de Simón Pedro y pescador del lago de Galilea. La tradición griega lo llama el «Primer Llamado». Según la tradición, murió en Patrás, en una cruz en forma de aspa.\n\n«Venid en pos de Mí y os haré pescadores de hombres.» Al instante, dejando las redes, le siguieron.\nMt 4, 19-20 (Evangelio de la fiesta)\n\nSan Andrés, ruega por nosotros.\n\nverbumetlux.com/santoral\n\n#SanAndrés #Apóstoles #Santoral #Católico #Vocación"
     }
   ],
   "reserva": [
