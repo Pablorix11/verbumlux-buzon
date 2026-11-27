@@ -14,12 +14,12 @@
     {
       "fecha": "2026-11-28",
       "hora": "10:00",
-      "archivo": "estudio-2026-11-28.mp4",
-      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/estudio-2026-11-28.mp4",
-      "portada_ms": 26000,
-      "titulo_tiktok": "Un cuadro y una palabra · verbumetlux.com/estudio",
-      "titulo_youtube": "Un cuadro y una palabra · el Estudio de Verbum Lux | Verbum · Lux",
-      "texto": "Un cuadro. Una palabra.\n\nEn el Estudio de Verbum Lux puedes elegir una obra del catálogo por época, autor, tema o santo, añadirle un versículo, una oración, un texto del catecismo o el santo del día, y darle forma con diecisiete plantillas para compartirla.\n\n«Pues de la grandeza y hermosura de las creaturas, se puede a las claras venir al conocimiento de su Creador.»\nSab 13, 5\n\nTe esperamos en verbumetlux.com/estudio\n\n#ArteSacro #Biblia #Católico #Evangelización #VerbumLux"
+      "archivo": "pagina-2026-11-28.mp4",
+      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/pagina-2026-11-28.mp4",
+      "portada_ms": 30000,
+      "titulo_tiktok": "La última página de la Biblia",
+      "titulo_youtube": "Ap 22: el río de agua de vida, la última página de la Biblia | Verbum · Lux",
+      "texto": "El último capítulo de la Biblia termina con un río y unos árboles.\n\nHoy, último día del año litúrgico, la primera lectura es el final del Apocalipsis: un río de agua de vida que sale del trono de Dios y del Cordero, árboles de vida a ambos lados que dan fruto cada mes, y una ciudad que ya no necesita lámpara.\n\n«Y no habrá más noche; ni necesitan luz de lámpara, ni luz de sol, porque el Señor Dios lucirá sobre ellos…»\nAp 22, 5 (primera lectura de hoy)\n\nMañana comienza el Adviento.\n\nLecturas del día en verbumetlux.com/lecturas\n\n#Apocalipsis #Biblia #Católico #Esperanza #ArteSacro"
     },
     {
       "fecha": "2026-11-29",
@@ -53,6 +53,17 @@
       "titulo_youtube": "Peldaño a peldaño · Presentación de la Virgen María | Verbum · Lux",
       "texto": "Peldaño a peldaño.\n\nHoy, 21 de noviembre, la Iglesia recuerda la Presentación de la Virgen María: según una antigua tradición, recogida en el Protoevangelio de Santiago, sus padres, san Joaquín y santa Ana, la llevaron al Templo de Jerusalén siendo niña, de tres años, para consagrarla a Dios.\n\n«Quienquiera que hace la voluntad de mi Padre celestial, este es mi hermano, hermana o madre.»\nMt 12, 50 (Evangelio de hoy)\n\nSanta María, ruega por nosotros.\n\nverbumetlux.com/santoral\n\n#VirgenMaría #PresentaciónDeLaVirgen #Santoral #Católico #María",
       "nota": "Guardado por petición del propietario (21-11-2026) para otro día. Ojo: el vídeo lleva «21 DE NOVIEMBRE» en pantalla y el texto dice «Hoy, 21 de noviembre»: usarlo el 21-11 de otro año o reajustar."
+    },
+    {
+      "fecha": null,
+      "hora": "10:00",
+      "archivo": "reserva/estudio-promo.mp4",
+      "url": "https://raw.githubusercontent.com/Pablorix11/verbumlux-buzon/claude/video-diario-verbum-lux-zeunwz/reserva/estudio-promo.mp4",
+      "portada_ms": 26000,
+      "titulo_tiktok": "Un cuadro y una palabra · verbumetlux.com/estudio",
+      "titulo_youtube": "Un cuadro y una palabra · el Estudio de Verbum Lux | Verbum · Lux",
+      "texto": "Un cuadro. Una palabra.\n\nEn el Estudio de Verbum Lux puedes elegir una obra del catálogo por época, autor, tema o santo, añadirle un versículo, una oración, un texto del catecismo o el santo del día, y darle forma con diecisiete plantillas para compartirla.\n\n«Pues de la grandeza y hermosura de las creaturas, se puede a las claras venir al conocimiento de su Creador.»\nSab 13, 5\n\nTe esperamos en verbumetlux.com/estudio\n\n#ArteSacro #Biblia #Católico #Evangelización #VerbumLux",
+      "nota": "Retirado del 28-11 a petición del propietario (no le gustó). No reutilizar sin rehacerlo."
     }
   ]
 }
